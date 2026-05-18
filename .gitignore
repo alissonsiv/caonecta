@@ -1,0 +1,27 @@
+# Compilation-produced files and directories
+target/
+*.class
+*.war
+*.ear
+*.nar
+*.jar
+
+# Maven dependencies and logging
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.warRefs
+release.properties
+dependency-reduced-pom.xml
+build.log
+*.versionsBackup
+
+# IDE specific files and folders
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.factorypath
+bin/
